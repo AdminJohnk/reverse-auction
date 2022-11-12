@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reverse-auction/static/css/main.c73f4cc6.css",
+    "main.js": "/reverse-auction/static/js/main.cebae0db.js",
+    "static/js/787.d61f8dac.chunk.js": "/reverse-auction/static/js/787.d61f8dac.chunk.js",
+    "index.html": "/reverse-auction/index.html",
+    "main.c73f4cc6.css.map": "/reverse-auction/static/css/main.c73f4cc6.css.map",
+    "main.cebae0db.js.map": "/reverse-auction/static/js/main.cebae0db.js.map",
+    "787.d61f8dac.chunk.js.map": "/reverse-auction/static/js/787.d61f8dac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73f4cc6.css",
+    "static/js/main.cebae0db.js"
+  ]
+}
