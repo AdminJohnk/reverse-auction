@@ -8,7 +8,7 @@ export default class Products extends Component {
         for (let i = 0; i < 18; i++) {
             products.push(
                 <div className={style.item}>
-                    <img src='image/index/product/product.png' alt='product' />
+                    <img src='image/index/Product/product.png' alt='product' />
                     <div className={style.title}>
                         Men's Nike Air Force 1 High Boot Black Anthracite Size 8-14 DA0418-001 New
                     </div>
